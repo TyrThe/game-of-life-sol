@@ -23,8 +23,8 @@ A creative visualization tool that transforms Solana blockchain transactions int
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/TyrThe/solana-game-of-life.git
-cd solana-game-of-life
+git clone https://github.com/TyrThe/solana-game-of-life-sol.git
+cd solana-game-of-life-sol
 ```
 
 2. Install dependencies:
