@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Solana Game of Life Visualizer
 
 A creative visualization tool that transforms Solana blockchain transactions into Conway's Game of Life patterns, creating unique visual representations of blockchain activity.
