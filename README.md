@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Solana Game of Life Visualizer
 
 A creative visualization tool that transforms Solana blockchain transactions into Conway's Game of Life patterns, creating unique visual representations of blockchain activity.
@@ -87,3 +88,6 @@ Feel free to submit issues and pull requests. For major changes, please open an 
 
 Your Name - [@yourtwitter](https://x.com/GameLifeSOL)
 Project Link: [https://github.com/yourusername/solana-game-of-life](https://github.com/yourusername/solana-game-of-life)
+=======
+# solana-game-of-life
+>>>>>>> ebc86348befcd57a085041e17659fe0a3f133328
