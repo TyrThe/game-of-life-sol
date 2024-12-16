@@ -74,10 +74,6 @@ Visit `http://localhost:3000` to see the application.
 
 Feel free to submit issues and pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
 ## Acknowledgments
 
 - John Conway for the Game of Life
@@ -86,8 +82,7 @@ Feel free to submit issues and pull requests. For major changes, please open an 
 
 ## Contact
 
-Your Name - [@yourtwitter](https://x.com/GameLifeSOL)
-Project Link: [https://github.com/yourusername/solana-game-of-life](https://github.com/yourusername/solana-game-of-life)
+GLSOL - [@yourtwitter](https://x.com/GameLifeSOL)
 =======
 # solana-game-of-life
 >>>>>>> ebc86348befcd57a085041e17659fe0a3f133328
